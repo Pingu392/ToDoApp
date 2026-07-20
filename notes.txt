@@ -1,3 +1,15 @@
 TUTORIAL: https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs
 GITHUB: https://github.com/Pingu392/ToDoApp
 7/20/26: accidentally erased progress from header and todo hero component. You can start there. Hopefully you remember what you've learned before the erasure.
+
+> HERO section -- a prominent area at the top of a webpage that typically includes a large image or video, a headline, and a call-to-action. This section is designed to grab the user's attention and convey the main message or value proposition of the site.
+
+> Args are called props in react
+
+-----TODOHero.jsx-----
+   > Object Destructuring -- a syntax that allows you to extract properties from an object and assign them to variables in a concise way. If we didn't use the special syntax in the Hero, for example, we would have to write something like:
+   
+      function TODOHero(props) {
+        const todos_completed = props.todos_completed;
+        const total_todos = props.total_todos;
+    ...
