@@ -6,9 +6,11 @@ GITHUB: https://github.com/Pingu392/ToDoApp
 
 > Args are called props in react
 
+> The span tag -- an inline container in HTML used to group and style a portion of text or other inline elements without introducing line breaks. 
+
 -----TODOHero.jsx-----
    > Object Destructuring -- a syntax that allows you to extract properties from an object and assign them to variables in a concise way. If we didn't use the special syntax in the Hero, for example, we would have to write something like:
-   
+
       function TODOHero(props) {
         const todos_completed = props.todos_completed;
         const total_todos = props.total_todos;
