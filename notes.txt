@@ -1,0 +1,3 @@
+TUTORIAL: https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs
+GITHUB: https://github.com/Pingu392/ToDoApp
+7/20/26: accidentally erased progress from header and todo hero component. You can start there. Hopefully you remember what you've learned before the erasure.
