@@ -1,6 +1,6 @@
 TUTORIAL: https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs
 GITHUB: https://github.com/Pingu392/ToDoApp
-7/20/26: accidentally erased progress from header and todo hero component. You can start there. Hopefully you remember what you've learned before the erasure.
+7/20/26: Just started Form.jsx
 
 > HERO section -- a prominent area at the top of a webpage that typically includes a large image or video, a headline, and a call-to-action. This section is designed to grab the user's attention and convey the main message or value proposition of the site.
 
