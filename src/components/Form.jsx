@@ -14,6 +14,14 @@ function Form() {
                     placeholder="Write your next task"
                 />
             </label>
+            <button>
+                <span className="visually-hidden">Submit</span>
+                <svg>
+                    <path d="" />
+                </svg>
+            </button>
         </form>
-    )
+    );
 }
+
+export default Form;
