@@ -1,6 +1,6 @@
 TUTORIAL: https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs
 GITHUB: https://github.com/Pingu392/ToDoApp
-7/20/26: Just started Form.jsx
+7/21/26: Just started TODOList componenet, specifically about to begin Item function
 
 > HERO section -- a prominent area at the top of a webpage that typically includes a large image or video, a headline, and a call-to-action. This section is designed to grab the user's attention and convey the main message or value proposition of the site.
 
